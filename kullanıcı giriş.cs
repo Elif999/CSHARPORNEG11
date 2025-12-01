@@ -45,8 +45,8 @@ namespace WindowsFormsApplication15
             label4.Visible = false;
             label6.Visible = false;
 
-            label7.Visible = true;     // 📌 Telefon başlık label'ı
-            textBox4.Visible = true;   // 📌 Telefon textbox'ı
+            label7.Visible = true;    
+            textBox4.Visible = true;   
 
             button2.Visible = false;   // Giriş butonu gizli başlasın
         }
@@ -166,5 +166,6 @@ namespace WindowsFormsApplication15
     }
    
     }
+
 
 
